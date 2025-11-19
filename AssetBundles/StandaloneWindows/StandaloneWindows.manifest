@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2296506619
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mediapipe
+      Dependencies: {}

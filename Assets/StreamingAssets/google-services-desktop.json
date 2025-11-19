@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "635463229166",
+    "firebase_url": "https://aicontact-a5219-default-rtdb.firebaseio.com",
+    "project_id": "aicontact-a5219",
+    "storage_bucket": "aicontact-a5219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635463229166:android:0c1d5b34f57475fab79dff",
+        "android_client_info": {
+          "package_name": "com.FaceStreamCorporation.AICONTACT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfumwDipBgAQctFgnG8SHPB4GcgAppd5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

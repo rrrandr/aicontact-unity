@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1327271430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 830f3d96af3a670ca88a76c2eaf78ca4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/face_landmark.bytes
+- Assets/face_detection_short_range.bytes
+- Assets/iris_landmark.bytes
+Dependencies: []
